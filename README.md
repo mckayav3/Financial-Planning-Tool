@@ -1,12 +1,8 @@
 # Module5_Challenge: Financila Planning Tool
 
-##
+## Financial Planning Tool
 
-
-
-
-
-
+The Financial Planning Tool applicationlooks for two things from a credit union member. The first part looks at credit union members savings and determins if they have enough to set aside for emergencies. The second part utilizes the monte carlo simulation to forcast a retirement portfolio to see which one is best for the credit union member.
 
 ## Technologies
 
@@ -86,6 +82,15 @@ In gitbash after you have activated your dev environment, install the following:
 ## Examples
 The images below show the different types of charts and graphs that should result from running the code in the Financial Planning with APIs and Simulations. By reviewing the charts and graphs we can come to a conclusion of the best outcome for the credit unit members.
 
+
+![pie chart](https://github.com/mckayav3/Module5_Challenge/blob/main/Images/pie_chart.JPG)
+
+
+![monte carlo sim](https://github.com/mckayav3/Module5_Challenge/blob/main/Images/pie_chart.JPG)
+
+
+
+![dist bar](https://github.com/mckayav3/Module5_Challenge/blob/main/Images/dist_bar_graph.JPG)
 
 
 ---
