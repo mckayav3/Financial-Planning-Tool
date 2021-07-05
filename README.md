@@ -51,7 +51,9 @@ In gitbash after you have activated your dev environment, install the following:
 ![pip install jupyter lab](images/jupyter_lab.JPG)
 
 *Anaconda requests
+
     `conda install -c anaconda request`
+    
 ![pip install jupyter lab](images/jupyter_lab.JPG)
 
 ---
