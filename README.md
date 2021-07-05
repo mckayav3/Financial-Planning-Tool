@@ -49,7 +49,7 @@ In gitbash after you have activated your dev environment, install the following:
     `conda install -c anaconda request`
     
     
-![pip install request](./images/istall_requests.JPG)
+![pip install request](images/istall_requests.JPG)
 
 
 *Json
@@ -57,7 +57,7 @@ In gitbash after you have activated your dev environment, install the following:
     `conda install -c jmcmurray json`
     
     
-![install json](./images/install_json.JPG)
+![install json](images/install_json.JPG)
 
 
 
@@ -66,7 +66,7 @@ In gitbash after you have activated your dev environment, install the following:
     `pip install python-dotenv`
     
     
-![install dotenv](./images/install_dotenv.JPG)
+![install dotenv](images/install_dotenv.JPG)
 
 
 
@@ -75,7 +75,7 @@ In gitbash after you have activated your dev environment, install the following:
     `pip install alpaca-trade-api`
     
     
-![install alpaca](./images/install_alpaca.JPG)
+![install alpaca](images/install_alpaca.JPG)
 
 
 
@@ -94,7 +94,7 @@ This section should include screenshots, code blocks, or animations explaining h
 
 From the command line you enter jupyter. 
 
-![command line jupyter lab](./images/command_line_jupyter_lab.JPG)
+![command line jupyter lab](images/command_line_jupyter_lab.JPG)
 
 Once the application is launched in Jupyter Lab you run through the code blocks to get your data.
 
