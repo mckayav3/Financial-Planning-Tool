@@ -1,14 +1,14 @@
-# Module5_Challenge: Financila Planning Tool
+# Module5_Challenge: Financial Planning Tool
 
 ## Financial Planning Tool
 
-The Financial Planning Tool applicationlooks for two things from a credit union member. The first part looks at credit union members savings and determins if they have enough to set aside for emergencies. The second part utilizes the monte carlo simulation to forcast a retirement portfolio to see which one is best for the credit union member.
+The Financial Planning Tool application looks for two things from a credit union member. The first part looks at credit union members savings and determines if they have enough to set aside for emergencies. The second part utilizes the Monte Carlo simulation to forecast a retirement portfolio to see which one is best for the credit union member.
 
 ## Technologies
 
 This was run on a pc using Windows 10
 
-This project leverages python 3.8.8 with the follwing packages:
+This project leverages python 3.8.8 with the following packages:
 
 
 * [os module](https://docs.python.org/3/library/os.html) - This module provides a portable way of using operating system dependent functionality.
@@ -80,7 +80,7 @@ In gitbash after you have activated your dev environment, install the following:
 ---
 
 ## Examples
-The images below show the different types of charts and graphs that should result from running the code in the Financial Planning with APIs and Simulations. By reviewing the charts and graphs we can come to a conclusion of the best outcome for the credit unit members.
+The images below show the different types of charts and graphs that should result from running the code in the Financial Planning with APIs and Simulations. By reviewing the charts and graphs we can conclude the best outcome for the credit unit members.
 
 
 ![pie chart](https://github.com/mckayav3/Module5_Challenge/blob/main/Images/pie_chart.JPG)
@@ -105,7 +105,7 @@ From the command line you enter jupyter. Make sure you launch Jupyter lab to all
 
 Once the application is launched in Jupyter Lab you run through the code blocks to get your data.
 
-Once all the cell blocks for the Financial Planning With APIs and Simulations have been run you can make your analysis of the data.
+Once all the cell blocks for the Financial Planning with APIs and Simulations have been run you can make your analysis of the data.
 
 ---
 
