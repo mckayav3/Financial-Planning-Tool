@@ -14,6 +14,7 @@ This was run on a pc using Windows 10
 
 This project leverages python 3.8.8 with the follwing packages:
 
+
 * [os module](https://docs.python.org/3/library/os.html) - This module provides a portable way of using operating system dependent functionality.
 
 * [request](https://anaconda.org/anaconda/requests) - Makes request in python.
@@ -34,6 +35,7 @@ This project leverages python 3.8.8 with the follwing packages:
 
 * [Monte Carlo Simulation](https://github.com/pythonprogramming/monte-carlo-simulator) - Used to access the risk of a given trading strategy
 
+
 ---
 
 ## Installation Guide
@@ -49,7 +51,7 @@ In gitbash after you have activated your dev environment, install the following:
     `conda install -c anaconda request`
     
     
-![pip install request](images/istall_requests.JPG)
+
 
 
 *Json
@@ -57,7 +59,7 @@ In gitbash after you have activated your dev environment, install the following:
     `conda install -c jmcmurray json`
     
     
-![install json](images/install_json.JPG)
+
 
 
 
@@ -66,7 +68,7 @@ In gitbash after you have activated your dev environment, install the following:
     `pip install python-dotenv`
     
     
-![install dotenv](images/install_dotenv.JPG)
+
 
 
 
@@ -75,7 +77,7 @@ In gitbash after you have activated your dev environment, install the following:
     `pip install alpaca-trade-api`
     
     
-![install alpaca](images/install_alpaca.JPG)
+
 
 
 
