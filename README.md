@@ -38,23 +38,25 @@ This project leverages python 3.8.8 with the follwing packages:
 
 ## Installation Guide
 
+In gitbash after you have activated your dev environment, install the following:
 
 ```python
   pip install jupyter lab
 ```
-In gitbash after you have activated your dev environment, install the following:
-
-*Jupyter Lab
-
-    `pip install jupyterlab`
-
-![pip install jupyter lab](images/jupyter_lab.JPG)
 
 *Anaconda requests
 
     `conda install -c anaconda request`
     
-![pip install jupyter lab](images/jupyter_lab.JPG)
+![pip install request](images/istall_requests.JPG)
+
+*Json
+
+    `conda install -c jmcmurray json`
+    
+![install json](images/install_json.JPG)
+
+
 
 ---
 
