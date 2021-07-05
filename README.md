@@ -86,7 +86,7 @@ The images below show the different types of charts and graphs that should resul
 ![pie chart](https://github.com/mckayav3/Module5_Challenge/blob/main/Images/pie_chart.JPG)
 
 
-![monte carlo sim](https://github.com/mckayav3/Module5_Challenge/blob/main/Images/pie_chart.JPG)
+![monte carlo sim](https://github.com/mckayav3/Module5_Challenge/blob/main/Images/monte_carlo_sim.JPG)
 
 
 
