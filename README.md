@@ -49,9 +49,9 @@ In gitbash after you have activated your dev environment, install the following:
 *Anaconda requests
 
     `conda install -c anaconda request`
-    
-    
-
+  
+ 
+![install request](https://github.com/mckayav3/Module5_Challenge/blob/main/Images/install_requests.JPG)
 
 
 *Json
@@ -68,7 +68,7 @@ In gitbash after you have activated your dev environment, install the following:
     `pip install python-dotenv`
     
     
-
+![install dotenv](https://github.com/mckayav3/Module5_Challenge/blob/main/Images/install_dotenv.JPG)
 
 
 
@@ -77,7 +77,7 @@ In gitbash after you have activated your dev environment, install the following:
     `pip install alpaca-trade-api`
     
     
-
+![install alpaca](https://github.com/mckayav3/Module5_Challenge/blob/main/Images/install_alpaca.JPG)
 
 
 
@@ -94,9 +94,9 @@ The images below show the different types of charts and graphs that should resul
 
 This section should include screenshots, code blocks, or animations explaining how to use your project.
 
-From the command line you enter jupyter. 
+From the command line you enter jupyter. Make sure you launch Jupyter lab to allow it to seed hidden files for your .env file.
 
-![command line jupyter lab](images/command_line_jupyter_lab.JPG)
+![command line jupyter lab](https://github.com/mckayav3/Module5_Challenge/blob/main/Images/launch_jupyterlab.JPG)
 
 Once the application is launched in Jupyter Lab you run through the code blocks to get your data.
 
