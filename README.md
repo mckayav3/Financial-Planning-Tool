@@ -57,6 +57,18 @@ In gitbash after you have activated your dev environment, install the following:
 ![install json](images/install_json.JPG)
 
 
+*Dotenv
+
+    `pip install python-dotenv`
+    
+![install dotenv](images/install_dotenv.JPG)
+
+
+*Alpaca Trade API
+
+    `pip install alpaca-trade-api`
+    
+![install alpaca](images/install_alpaca)
 
 ---
 
