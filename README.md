@@ -48,32 +48,42 @@ In gitbash after you have activated your dev environment, install the following:
 
     `conda install -c anaconda request`
     
+    
 ![pip install request](images/istall_requests.JPG)
+
 
 *Json
 
     `conda install -c jmcmurray json`
     
+    
 ![install json](images/install_json.JPG)
+
 
 
 *Dotenv
 
     `pip install python-dotenv`
     
+    
 ![install dotenv](images/install_dotenv.JPG)
+
 
 
 *Alpaca Trade API
 
     `pip install alpaca-trade-api`
     
-![install alpaca](images/install_alpaca)
+    
+![install alpaca](images/install_alpaca.JPG)
+
+
 
 ---
 
 ## Examples
 The images below show the different types of charts and graphs that should result from running the code in the Financial Planning with APIs and Simulations. By reviewing the charts and graphs we can come to a conclusion of the best outcome for the credit unit members.
+
 
 
 ---
@@ -87,7 +97,6 @@ From the command line you enter jupyter.
 ![command line jupyter lab](images/command_line_jupyter_lab.JPG)
 
 Once the application is launched in Jupyter Lab you run through the code blocks to get your data.
-
 
 Once all the cell blocks for the Financial Planning With APIs and Simulations have been run you can make your analysis of the data.
 
